@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "" // https://github.com/larson692/larson-Accessibility-Checker.git
   },
-  "keywords": [ // ключевые слова (необязательно)
+  "keywords": [ // 
     "", 
     "",
     ""
   ],
-  "author": "", // автор (необязательно)
+  "author": "", // larson
   "license": "MIT"
 }

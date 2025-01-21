@@ -62,3 +62,13 @@ Check the `example` directory for an example usage of the PDFGenerator.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# a11y-checker
+
+A simple accessibility checker for common issues like missing `alt` text, missing `aria-label` attributes, and low color contrast.
+
+## Installation
+
+You can install `a11y-checker` via npm:
+
+```bash
+npm install a11y-checker
